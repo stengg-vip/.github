@@ -1,6 +1,6 @@
 # stengg-vip
 
-This organization mirrors internal engineering repositories from our company's internal GitLab server (`gitlab.vip.vibu`) onto GitHub.
+This organization mirrors internal engineering repositories from our company's internal GitLab server (`gitlab.***.****`) onto GitHub.
 
 **Purpose:** these mirrors are used for a university report / project proposal to a professor, providing accessible reference material without altering the original internal source control system.
 
